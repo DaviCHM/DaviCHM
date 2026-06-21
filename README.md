@@ -16,10 +16,10 @@ Já entreguei soluções para organizações reais — CNSaúde, UNAS Heliópoli
 
 ### Stack
 
-**Backend / APIs** — Java Spring Boot · Python (FastAPI, Flask)
-**Frontend** — React
-**Bancos de dados** — MySQL · MongoDB
-**Dados / Finanças** — Python (análise de dados, modelagem financeira)
+- **Backend / APIs** — Java Spring Boot · Python (FastAPI, Flask)
+- **Frontend** — React
+- **Bancos de dados** — MySQL · MongoDB
+- **Dados / Finanças** — Python (análise de dados, modelagem financeira)
 
 ---
 
