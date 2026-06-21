@@ -14,17 +14,6 @@ Já entreguei soluções para organizações reais — CNSaúde, UNAS Heliópoli
 
 ---
 
-### Projetos em destaque
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| **[nome-do-backtester]** | Backtester de estratégias quantitativas com dados da B3 — métricas de risco/retorno e comparação contra benchmark | Python, pandas |
-| **[nome-do-rag]** | Sistema de perguntas e respostas sobre documentos financeiros, com citação obrigatória da fonte | Python, FastAPI, React |
-
-> _(Atualizar os nomes e links quando os repositórios estiverem publicados.)_
-
----
-
 ### Stack
 
 **Backend / APIs** — Java Spring Boot · Python (FastAPI, Flask)
