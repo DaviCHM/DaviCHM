@@ -26,7 +26,7 @@ Já entreguei soluções para organizações reais — CNSaúde, UNAS Heliópoli
 ### Um pouco fora do código
 
 Antes da engenharia de software, fui **atleta profissional de e-sports** por quatro anos (2021–2024), competindo no cenário brasileiro de Valorant, incluindo o VCT. A rotina de treino, análise de desempenho e trabalho sob pressão em equipe é algo que trouxe comigo para o desenvolvimento de software.
-
+https://liquipedia.net/valorant/Chase_(Brazilian_player)
 ---
 
 _Inglês fluente · São Paulo, Brasil_
